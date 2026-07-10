@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:0f172a&height=220&section=header&text=Argane%20Rachid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%26%20E-Commerce%20CRO%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 
 <br/>
 
