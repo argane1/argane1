@@ -106,11 +106,7 @@ My work spans two tracks that feed into each other:
 <img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=6366f1&text_color=e2e8f0" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
 
-<br/>
 
-
-
-<br/>
 
 ## 🚀 Featured Projects
 
