@@ -108,9 +108,7 @@ My work spans two tracks that feed into each other:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argane1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=e2e8f0" height="165"/>
 
-</div>
 
 <br/>
 
