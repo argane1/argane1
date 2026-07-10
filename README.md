@@ -102,8 +102,7 @@ My work spans two tracks that feed into each other:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
 </div>
 
 
