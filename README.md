@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Fluent+in+5+languages+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Fluent+in+4+languages+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
