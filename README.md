@@ -48,7 +48,7 @@ My work spans two tracks that feed into each other:
 |---|---|
 | 📍 Based in | Copenhagen, DK |
 | 🌍 Citizenship | 🇸🇪 Sweden · 🇲🇦 Morocco |
-| 🗣️ Languages | 5 fluent |
+| 🗣️ Languages | 4 fluent |
 | 🎯 Focus | AI Agents · Next.js · Shopify CRO |
 | 💼 Open to | Technical partnerships & consulting |
 
