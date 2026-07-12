@@ -1,6 +1,89 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:1e293b&height=220&section=header&text=Argane%20Rachid&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20E-Commerce%20CRO%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="420" rx="16" fill="url(#bgGrad)"/>
+
+  <text x="30" y="45" font-family="Fira Code, monospace" font-size="20" font-weight="700" fill="#e2e8f0">
+    ⚡ Core Proficiency
+  </text>
+  <line x1="30" y1="60" x2="770" y2="60" stroke="#334155" stroke-width="1"/>
+
+  <!-- Skill rows: label, target width (out of 620 max), color, delay -->
+  <!-- TypeScript / Next.js -->
+  <text x="30" y="95" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">TypeScript / Next.js</text>
+  <rect x="30" y="104" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="104" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="570" dur="1.6s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="113" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">92%</text>
+
+  <!-- Node.js / PostgreSQL -->
+  <text x="30" y="140" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">Node.js / PostgreSQL</text>
+  <rect x="30" y="149" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="149" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="527" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="158" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">85%</text>
+
+  <!-- AI Agents / LLM Pipelines -->
+  <text x="30" y="185" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">AI Agents / LLM Pipelines</text>
+  <rect x="30" y="194" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="194" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="546" dur="1.6s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="203" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">88%</text>
+
+  <!-- Shopify Liquid / CRO -->
+  <text x="30" y="230" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">Shopify Liquid / CRO</text>
+  <rect x="30" y="239" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="239" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="583" dur="1.6s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="248" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">94%</text>
+
+  <!-- React / Tailwind -->
+  <text x="30" y="275" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">React / Tailwind</text>
+  <rect x="30" y="284" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="284" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="558" dur="1.6s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="293" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">90%</text>
+
+  <!-- Docker / CI-CD -->
+  <text x="30" y="320" font-family="Fira Code, monospace" font-size="14" fill="#cbd5e1">Docker / DevOps Tooling</text>
+  <rect x="30" y="329" width="620" height="10" rx="5" fill="#1e293b"/>
+  <rect x="30" y="329" height="10" rx="5" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="490" dur="1.6s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
+  </rect>
+  <text x="660" y="338" font-family="Fira Code, monospace" font-size="12" fill="#818cf8">79%</text>
+
+  <!-- Bottom animated pulse dot + status line -->
+  <circle cx="42" cy="370" r="5" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="58" y="375" font-family="Fira Code, monospace" font-size="13" fill="#94a3b8">
+    Actively building AI agent systems &amp; Shopify CRO tooling
+  </text>
+</svg>
 
 <br/>
 
