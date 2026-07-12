@@ -10,21 +10,41 @@
 <a href="https://github.com/argane1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="mailto:contact@sorina.cloud">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
-</a>
 <img src="https://img.shields.io/badge/Copenhagen%2C%20Denmark-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 <img src="https://img.shields.io/badge/🇸🇪%20🇲🇦-Dual%20Citizen-1e293b?style=for-the-badge" alt="Citizenship">
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Founder+%40+sorina.cloud;Fluent+in+4+languages+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Full-Stack+meets+AI+Agent+Design;Fluent+in+4+languages+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=argane1&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/argane1?style=for-the-badge&color=6366f1&logo=github&label=Followers" alt="Followers">
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Status">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<details open>
+<summary><b>🎮 System Boot Sequence — click to toggle</b></summary>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=22C55E&background=0F172A00&center=true&vCenter=true&width=600&height=160&lines=%24+whoami;argane-rachid;%24+cat+skills.json+%7C+jq;%5B%22TypeScript%22%2C%22Next.js%22%2C%22AI+Agents%22%2C%22Shopify%22%5D;%24+./deploy.sh+--env%3Dproduction;✓+Build+successful+in+2.4s;%24+status;Open+to+work+🟢" alt="terminal boot"/>
+
+</details>
+
+<br/>
+
+### 🐍 Live Contribution Snake
+
+<img src="https://raw.githubusercontent.com/argane1/argane1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>The snake literally eats my GitHub contribution graph, day by day — auto-generated via GitHub Actions (setup note near the bottom)</sub>
 
 </div>
 
@@ -49,7 +69,6 @@ engineer:
   focus:
     - AI Agent Architecture & Full-Stack TypeScript
     - Shopify Engineering & Conversion Rate Optimization
-  currently_building: sorina.cloud
   studying: Business & Commercial Development @ Hyper Island
   open_to: [Full-Stack AI roles, Technical partnerships, Shopify/CRO consulting]
 ```
@@ -66,7 +85,6 @@ engineer:
 | 🗣️ Languages | 5 (FR/AR/EN/SV/DE) |
 | 🎓 Studying | Hyper Island '24–'26 |
 | 🎯 Focus | AI Agents · Next.js · Shopify CRO |
-| 🏢 Founder of | [sorina.cloud](https://sorina.cloud) |
 | 💼 Open to | Full-time · Contract · Consulting |
 
 </td>
@@ -122,16 +140,22 @@ engineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=e2e8f0&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=e2e8f0&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argane1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=e2e8f0&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argane1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=argane1&theme=react-dark&bg_color=0f172a&color=818CF8&line=6366f1&point=e2e8f0&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/argane1/argane1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+<sub>3D rotating contribution calendar — setup note below</sub>
 
 </div>
 
@@ -184,25 +208,9 @@ An enterprise LMS with programmatic training tracks, automated progress validati
 Full storefront builds and CRO overhauls for a DACH-market DTC supplement brand — custom cart systems, sticky add-to-cart UX, and persuasion-framework-driven landing pages.
 `Liquid` `JavaScript` `Shopify`
 
-<br/>
-
-**`sorina.cloud`** — *Founder & CEO*
-AI automation and full-stack engineering studio combining agentic workflows with conversion-focused e-commerce builds.
-`TypeScript` `AI Agents` `E-Commerce`
-
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📈 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/argane1/argane1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Generated automatically via GitHub Actions — see setup note below</sub>
-</div>
 
 <br/>
 
@@ -218,11 +226,12 @@ I'm open to high-impact technical partnerships, AI systems consulting, and Shopi
 <a href="https://github.com/argane1">
   <img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://sorina.cloud">
-  <img src="https://img.shields.io/badge/Visit%20sorina.cloud-6366F1?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
 
 **Core topics:** System design · AI agent architecture · Next.js at scale · E-commerce CRO
+
+<br/>
+
+<sub>⚙️ <b>Setup note:</b> the Snake game and 3D contribution calendar above are generated by two small GitHub Actions in this repo (`argane1/argane1`) — <a href="https://github.com/Platane/snk">Platane/snk</a> and <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>. Both run on a daily schedule and commit their output to an <code>output</code>/<code>main</code> branch, which is what these image URLs point to. Add their workflow YAML once and they update automatically from then on.</sub>
 
 <br/>
 
