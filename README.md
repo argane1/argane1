@@ -53,7 +53,7 @@ My work spans two tracks that feed into each other:
 
 On the AI engineering side, I design and ship agent architectures end-to-end — from backend APIs and databases through to the LLM pipelines that power them, using TypeScript, Next.js, Node.js, and PostgreSQL as my core stack. On the Shopify side, I build custom storefront features in Liquid and JavaScript and run conversion-rate-optimization work grounded in persuasion frameworks and real A/B-tested results.
 
-I'm currently completing a Bachelor's in Business & Commercial Development at Hyper Island, and I'm fluent in French, Arabic, English, and Swedish. My focus areas are full-time Full-Stack AI roles, technical partnerships, and Shopify/CRO consulting engagements.
+I hold a Bachelor's in Business & Commercial Development from Hyper Island, and I'm fluent in French, Arabic, English, and Swedish. My focus areas are full-time Full-Stack AI roles, technical partnerships, and Shopify/CRO consulting engagements.
 
 </td>
 <td width="40%" valign="top">
@@ -65,7 +65,7 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 | 📍 Based in | Copenhagen, DK |
 | 🌍 Citizenship | 🇸🇪 Sweden · 🇲🇦 Morocco |
 | 🗣️ Languages | 4 (FR/AR/EN/SV) |
-| 🎓 Studying | Hyper Island '24–'26 |
+| 🎓 Studied | Hyper Island, Class of '26 |
 | 🎯 Focus | AI Agents · Next.js · Shopify CRO |
 | 🤝 Interests | Full-time · Contract · Consulting |
 
@@ -132,14 +132,6 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 
 <img src="https://raw.githubusercontent.com/argane1/argane1/main/skills-animated.svg" width="100%"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=argane1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 </div>
 
 <br/>
