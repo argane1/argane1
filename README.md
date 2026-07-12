@@ -122,12 +122,7 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=e2e8f0&cache_seconds=1800" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argane1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
@@ -135,9 +130,7 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:1e293b&height=3&width=800" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Currently+shipping%3A+AI+agent+pipelines;Currently+optimizing%3A+veyt.de+conversion+funnels;Currently+learning%3A+multi-agent+orchestration" alt="currently working on"/>
+<img src="https://raw.githubusercontent.com/argane1/argane1/main/skills-animated.svg" width="100%"/>
 
 </div>
 
