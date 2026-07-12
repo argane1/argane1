@@ -60,18 +60,9 @@ I'm a full-stack engineer and CRO specialist based in **Copenhagen, Denmark**, w
 
 My work spans two tracks that feed into each other:
 
-```yaml
-engineer:
-  name: Argane Rachid
-  location: Copenhagen, Denmark
-  citizenship: [Sweden 🇸🇪, Morocco 🇲🇦]
-  languages: [French, Arabic, English, Swedish, German]
-  focus:
-    - AI Agent Architecture & Full-Stack TypeScript
-    - Shopify Engineering & Conversion Rate Optimization
-  studying: Business & Commercial Development @ Hyper Island
-  open_to: [Full-Stack AI roles, Technical partnerships, Shopify/CRO consulting]
-```
+On the AI engineering side, I design and ship agent architectures end-to-end — from backend APIs and databases through to the LLM pipelines that power them, using TypeScript, Next.js, Node.js, and PostgreSQL as my core stack. On the Shopify side, I build custom storefront features in Liquid and JavaScript and run conversion-rate-optimization work grounded in persuasion frameworks and real A/B-tested results.
+
+I'm currently completing a Bachelor's in Business & Commercial Development at Hyper Island, and I'm fluent in French, Arabic, English, Swedish, and German. I'm open to full-time Full-Stack AI roles, technical partnerships, and Shopify/CRO consulting engagements.
 
 </td>
 <td width="40%" valign="top">
