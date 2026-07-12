@@ -21,7 +21,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=argane1&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/argane1?style=for-the-badge&color=6366f1&logo=github&label=Followers" alt="Followers">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Status">
 
 </div>
 
@@ -34,17 +33,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=22C55E&background=0F172A00&center=true&vCenter=true&width=600&height=160&lines=%24+whoami;argane-rachid;%24+cat+skills.json+%7C+jq;%5B%22TypeScript%22%2C%22Next.js%22%2C%22AI+Agents%22%2C%22Shopify%22%5D;%24+./deploy.sh+--env%3Dproduction;✓+Build+successful+in+2.4s;%24+status;Open+to+work+🟢" alt="terminal boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=22C55E&center=true&vCenter=true&width=600&height=160&lines=%24+whoami;argane-rachid;%24+cat+skills.json;%5BTypeScript%2C+Next.js%2C+AI+Agents%2C+Shopify%5D;%24+./deploy.sh;Build+successful;%24+status;System+ready" alt="terminal boot"/>
 
 </details>
-
-<br/>
-
-### 🐍 Live Contribution Snake
-
-<img src="https://raw.githubusercontent.com/argane1/argane1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>The snake literally eats my GitHub contribution graph, day by day — auto-generated via GitHub Actions (setup note near the bottom)</sub>
 
 </div>
 
@@ -62,7 +53,7 @@ My work spans two tracks that feed into each other:
 
 On the AI engineering side, I design and ship agent architectures end-to-end — from backend APIs and databases through to the LLM pipelines that power them, using TypeScript, Next.js, Node.js, and PostgreSQL as my core stack. On the Shopify side, I build custom storefront features in Liquid and JavaScript and run conversion-rate-optimization work grounded in persuasion frameworks and real A/B-tested results.
 
-I'm currently completing a Bachelor's in Business & Commercial Development at Hyper Island, and I'm fluent in French, Arabic, English, Swedish, and German. I'm open to full-time Full-Stack AI roles, technical partnerships, and Shopify/CRO consulting engagements.
+I'm currently completing a Bachelor's in Business & Commercial Development at Hyper Island, and I'm fluent in French, Arabic, English, and Swedish. My focus areas are full-time Full-Stack AI roles, technical partnerships, and Shopify/CRO consulting engagements.
 
 </td>
 <td width="40%" valign="top">
@@ -73,10 +64,10 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 |---|---|
 | 📍 Based in | Copenhagen, DK |
 | 🌍 Citizenship | 🇸🇪 Sweden · 🇲🇦 Morocco |
-| 🗣️ Languages | 5 (FR/AR/EN/SV/DE) |
+| 🗣️ Languages | 4 (FR/AR/EN/SV) |
 | 🎓 Studying | Hyper Island '24–'26 |
 | 🎯 Focus | AI Agents · Next.js · Shopify CRO |
-| 💼 Open to | Full-time · Contract · Consulting |
+| 🤝 Interests | Full-time · Contract · Consulting |
 
 </td>
 </tr>
@@ -132,7 +123,7 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=e2e8f0&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
 
 <br/>
 
@@ -144,9 +135,9 @@ I'm currently completing a Bachelor's in Business & Commercial Development at Hy
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/argane1/argane1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:1e293b&height=3&width=800" width="100%"/>
 
-<sub>3D rotating contribution calendar — setup note below</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Currently+shipping%3A+AI+agent+pipelines;Currently+optimizing%3A+veyt.de+conversion+funnels;Currently+learning%3A+multi-agent+orchestration" alt="currently working on"/>
 
 </div>
 
@@ -209,7 +200,7 @@ Full storefront builds and CRO overhauls for a DACH-market DTC supplement brand 
 
 <div align="center">
 
-I'm open to high-impact technical partnerships, AI systems consulting, and Shopify/CRO engagements for growth-stage e-commerce brands.
+Available for high-impact technical partnerships, AI systems consulting, and Shopify/CRO engagements for growth-stage e-commerce brands.
 
 <a href="https://www.linkedin.com/in/argane-rachid/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -219,10 +210,6 @@ I'm open to high-impact technical partnerships, AI systems consulting, and Shopi
 </a>
 
 **Core topics:** System design · AI agent architecture · Next.js at scale · E-commerce CRO
-
-<br/>
-
-<sub>⚙️ <b>Setup note:</b> the Snake game and 3D contribution calendar above are generated by two small GitHub Actions in this repo (`argane1/argane1`) — <a href="https://github.com/Platane/snk">Platane/snk</a> and <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>. Both run on a daily schedule and commit their output to an <code>output</code>/<code>main</code> branch, which is what these image URLs point to. Add their workflow YAML once and they update automatically from then on.</sub>
 
 <br/>
 
