@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:1e293b&height=220&section=header&text=Argane%20Rachid&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20E-Commerce%20CRO%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -10,17 +10,21 @@
 <a href="https://github.com/argane1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a href="mailto:contact@sorina.cloud">
+  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
+</a>
 <img src="https://img.shields.io/badge/Copenhagen%2C%20Denmark-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 <img src="https://img.shields.io/badge/🇸🇪%20🇲🇦-Dual%20Citizen-1e293b?style=for-the-badge" alt="Citizenship">
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Fluent+in+4+languages+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=45&lines=Building+Next.js+%2B+TypeScript+at+scale;Engineering+autonomous+AI+agent+systems;Shopify+%26+CRO+for+high-growth+DTC+brands;Founder+%40+sorina.cloud;Fluent+in+4+languages+%F0%9F%8C%8D" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=argane1&style=for-the-badge&color=1e293b&label=Profile+Views" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/argane1?style=for-the-badge&color=1e293b&logo=github&label=Followers" alt="Followers">
+<img src="https://komarev.com/ghpvc/?username=argane1&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/argane1?style=for-the-badge&color=6366f1&logo=github&label=Followers" alt="Followers">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Status">
 
 </div>
 
@@ -36,8 +40,19 @@ I'm a full-stack engineer and CRO specialist based in **Copenhagen, Denmark**, w
 
 My work spans two tracks that feed into each other:
 
-- **AI & Full-Stack Engineering** — Node.js/TypeScript backends, React/Next.js frontends, and custom AI agent pipelines.
-- **Shopify & CRO** — technical development and conversion optimization for a supplement brand serving the DACH market, applying behavioral-science frameworks to real storefronts at scale.
+```yaml
+engineer:
+  name: Argane Rachid
+  location: Copenhagen, Denmark
+  citizenship: [Sweden 🇸🇪, Morocco 🇲🇦]
+  languages: [French, Arabic, English, Swedish, German]
+  focus:
+    - AI Agent Architecture & Full-Stack TypeScript
+    - Shopify Engineering & Conversion Rate Optimization
+  currently_building: sorina.cloud
+  studying: Business & Commercial Development @ Hyper Island
+  open_to: [Full-Stack AI roles, Technical partnerships, Shopify/CRO consulting]
+```
 
 </td>
 <td width="40%" valign="top">
@@ -48,9 +63,11 @@ My work spans two tracks that feed into each other:
 |---|---|
 | 📍 Based in | Copenhagen, DK |
 | 🌍 Citizenship | 🇸🇪 Sweden · 🇲🇦 Morocco |
-| 🗣️ Languages | 4 fluent |
+| 🗣️ Languages | 5 (FR/AR/EN/SV/DE) |
+| 🎓 Studying | Hyper Island '24–'26 |
 | 🎯 Focus | AI Agents · Next.js · Shopify CRO |
-| 💼 Open to | Technical partnerships & consulting |
+| 🏢 Founder of | [sorina.cloud](https://sorina.cloud) |
+| 💼 Open to | Full-time · Contract · Consulting |
 
 </td>
 </tr>
@@ -80,18 +97,20 @@ My work spans two tracks that feed into each other:
 
 **AI & Automation**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/LLM%20Pipelines-6366F1?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
 
 </td>
 <td align="center" width="25%">
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 
 </td>
 </tr>
@@ -102,9 +121,29 @@ My work spans two tracks that feed into each other:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=argane1&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&icon_color=6366f1&text_color=e2e8f0&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=argane1&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=6366f1&fire=6366f1&currStreakLabel=e2e8f0" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argane1&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=818CF8&text_color=e2e8f0&langs_count=8" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=argane1&theme=react-dark&bg_color=0f172a&color=818CF8&line=6366f1&point=e2e8f0&hide_border=true&area=true" width="100%"/>
+
 </div>
 
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=argane1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -145,9 +184,25 @@ An enterprise LMS with programmatic training tracks, automated progress validati
 Full storefront builds and CRO overhauls for a DACH-market DTC supplement brand — custom cart systems, sticky add-to-cart UX, and persuasion-framework-driven landing pages.
 `Liquid` `JavaScript` `Shopify`
 
+<br/>
+
+**`sorina.cloud`** — *Founder & CEO*
+AI automation and full-stack engineering studio combining agentic workflows with conversion-focused e-commerce builds.
+`TypeScript` `AI Agents` `E-Commerce`
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📈 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/argane1/argane1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated automatically via GitHub Actions — see setup note below</sub>
+</div>
 
 <br/>
 
@@ -162,6 +217,9 @@ I'm open to high-impact technical partnerships, AI systems consulting, and Shopi
 </a>
 <a href="https://github.com/argane1">
   <img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://sorina.cloud">
+  <img src="https://img.shields.io/badge/Visit%20sorina.cloud-6366F1?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 **Core topics:** System design · AI agent architecture · Next.js at scale · E-commerce CRO
