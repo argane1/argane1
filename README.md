@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:1e293b&height=200&section=header&text=Argane%20Rachid&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20E-Commerce%20CRO%20Specialist&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:1e293b&height=200&section=header&text=Rachid%20Argane&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%26%20AI%20Agent%20Developer&descAlignY=58&descSize=16" width="100%" alt="Header Banner"/>
 
   <br/>
 
   <!-- High-level Badges -->
-  <a href="https://www.linkedin.com/in/argane-rachid/">
+  <a href="https://www.linkedin.com/in/argane-rachid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/argane1">
@@ -18,7 +18,7 @@
   <br/><br/>
 
   <!-- Dynamic Tagline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=818CF8&center=true&vCenter=true&width=650&height=40&lines=Architecting+Next.js+%2B+TypeScript+applications+at+scale;Engineering+autonomous+AI+agent+systems+%26+LLM+pipelines;Driving+e-Commerce+growth+via+CRO+%26+Shopify+Liquid;Fluent+in+English%2C+French%2C+Swedish%2C+%26+Arabic" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=818CF8&center=true&vCenter=true&width=750&height=40&lines=Building+enterprise-async+apps+with+Python%2C+FastAPI+%26+Next.js;Engineering+autonomous+AI+agents+%26+RAG+pipelines;Fluent+in+Arabic%2C+French%2C+Swedish%2C+and+English;Open+to+relocation+across+the+EU" alt="Typing Tagline" />
 
 </div>
 
@@ -30,14 +30,18 @@
 <tr>
 <td width="65%" valign="top">
 
-I am a **Full-Stack AI Engineer** and **Conversion Rate Optimization (CRO) Specialist** based in Copenhagen, operating at the intersection of production-grade AI systems and scalable e-commerce engineering. 
+I am a **Full-Stack AI Engineer and AI Agent Developer** based in Copenhagen, specializing in agentic systems, RAG pipelines, and production-grade backend architecture[cite: 1]. 
 
 ### Core Focus Areas:
-* **AI & Software Engineering:** Architecting full-stack applications with TypeScript, Next.js, Node.js, and PostgreSQL. Designing resilient autonomous multi-agent systems and custom LLM integration pipelines.
-* **E-Commerce & CRO Growth:** Building high-converting Shopify storefronts in Liquid and JavaScript, leveraging data-driven UX patterns and A/B testing frameworks to boost conversion metrics.
+* **AI Agent Engineering:** Designing and deploying autonomous multi-step agents and conversational workflows into production using tools like Make.com, Vapi, and Voiceflow[cite: 1].
+* **Full-Stack AI Development:** Building enterprise-async applications powered by Python, FastAPI, SQLAlchemy, and Supabase/PostgreSQL (pgvector)[cite: 1].
+* **RAG & Vector Search:** Architecting pgvector-based semantic retrieval and fusion-ranked document Q&A pipelines[cite: 1].
 
-🎓 **Education:** B.S. in Business & Commercial Development (*Hyper Island*)  
-🗣️ **Languages:** English, French, Swedish, Arabic (Native/Bilingual Proficiency)
+🎓 **Education:** 
+* Bachelor in Computer Science, *Linnaeus University* (2019 – 2022)[cite: 1]
+* Diploma in Business Development, *Hyper Island* (2024 – 2026)[cite: 1]
+
+🗣️ **Languages:** Arabic (Native), French (Native), Swedish (C2), English (C1), Italian (Intermediate)[cite: 1].
 
 </td>
 <td width="35%" valign="top">
@@ -46,11 +50,11 @@ I am a **Full-Stack AI Engineer** and **Conversion Rate Optimization (CRO) Speci
 
 | Key | Details |
 | :--- | :--- |
-| **Location** | Copenhagen, DK |
-| **Citizenship** | 🇸🇪 Sweden · 🇲🇦 Morocco |
-| **Education** | Hyper Island (2026) |
-| **Domain** | Full-Stack AI · Shopify CRO |
-| **Open To** | Full-Time · Consulting · Fractional |
+| **Location** | Copenhagen, DK[cite: 1] |
+| **Citizenship** | 🇸🇪 Sweden · 🇲🇦 Morocco[cite: 1] |
+| **Mobility** | Open to EU relocation[cite: 1] |
+| **Domain** | Full-Stack AI · Agentic Systems[cite: 1] |
+| **Expertise** | FastAPI · React 19 · pgvector[cite: 1] |
 
 </td>
 </tr>
@@ -64,42 +68,45 @@ I am a **Full-Stack AI Engineer** and **Conversion Rate Optimization (CRO) Speci
 <tr>
 <td align="center" width="25%" valign="top">
 
-### Frontend
+### Frontend & Styling
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,tailwind,css&theme=dark" /><br/>
-<sub>Next.js · React · TypeScript · JavaScript · Tailwind · CSS3</sub>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,css&theme=dark" /><br/>
+<sub>React 19 · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui[cite: 1]</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
 ### Backend & Data
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,graphql&theme=dark" /><br/>
-<sub>Node.js · Express · Prisma · PostgreSQL · MongoDB · GraphQL</sub>
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,supabase,docker&theme=dark" /><br/>
+<sub>Python · FastAPI · PostgreSQL / pgvector · Supabase · SQLAlchemy · Docker[cite: 1]</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-### AI & Intelligence
+### AI & Agentic Systems
 <br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=py&theme=dark" /><br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"><br/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1C3C3C?style=flat-square&logo=c&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white"><br/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/Vector%20Search-000000?style=flat-square&logo=ollama&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Voiceflow-412991?style=flat-square&logo=openai&logoColor=white">
 </p>
+<sub>LLM Orchestration · SSE Streaming · Make.com · Vapi[cite: 1]</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-### Architecture & Tools
+### Business & Tools
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,github,vercel,linux,vscode&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,notion&theme=dark" /><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white"><br/>
-  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=flat-square&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=flat-square&logo=cursor&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/GA4%20%26%20Ads-EA4335?style=flat-square&logo=google&logoColor=white">
 </p>
+<sub>CRO Auditing · EBITDA Modeling[cite: 1]</sub>
 
 </td>
 </tr>
@@ -107,38 +114,34 @@ I am a **Full-Stack AI Engineer** and **Conversion Rate Optimization (CRO) Speci
 
 <br/>
 
-## 🚀 Key Projects
+## 🚀 Featured Experience & Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Systems & Intelligent Automation
+### 🧠 AI Engineering & Architecture
 
-* **[`AI-Meeting Intelligence`](https://github.com/argane1)**  
-  Context-aware transcription pipeline transforming unstructured multi-party audio into indexed, semantic records.  
-  `TypeScript` `Node.js` `LLM Architecture`
+* **[`Document Copilot`](https://github.com/argane1)** (2026 - Present)[cite: 1]  
+  Production RAG application for financial-filing analysis (10-K/10-Q/8-K) featuring a multi-strategy retriever (embedding search, keyword extraction, and fusion ranking)[cite: 1].  
+  `Python` `FastAPI` `pgvector` `SSE Streaming` `React 19`[cite: 1]
 
-* **[`ConversionAI`](https://github.com/argane1)**  
-  Real-time optimization engine dynamically tailoring checkout UI and funnel parameters based on behavioral signals.  
-  `Next.js` `React` `Algorithmic CRO`
-
-* **[`SupplyGuard-AI`](https://github.com/argane1)**  
-  Backend streaming microservice detecting anomalies across complex supply chain data flows.  
-  `Python` `TypeScript` `Event Processing`
+* **`sorina.cloud` | Founder & CEO** (2024 - 2026)[cite: 1]  
+  Engineered and deployed end-to-end full-stack AI automation products. Architected autonomous multi-step AI agents handling 24/7 booking, lead qualification, and client support[cite: 1].  
+  `TypeScript` `Supabase` `Make.com` `Vapi`[cite: 1]
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Enterprise & E-Commerce Platforms
+### 🏢 Full-Stack E-Commerce & Systems
 
-* **[`OnboardAI`](https://github.com/argane1)**  
-  Enterprise LMS platform offering generative learning paths, programmatic progress tracking, and automated skills assessment.  
-  `Next.js` `Prisma` `PostgreSQL` `LLMs`
+* **`Veyt` | Full-Stack AI & E-Commerce Engineer** (2025 - 2026)[cite: 1]  
+  Engineered custom high-performance storefront components utilizing advanced DOM manipulation and integrated automated backend webhook pipelines for conversion dynamic optimization[cite: 1].  
+  `Shopify Liquid` `JavaScript` `GA4`[cite: 1]
 
-* **`DACH Market DTC Overhaul`** *(Client Work)*  
-  Custom Liquid storefront design and end-to-end CRO optimization for a high-growth brand. Achieved measurable conversion lift via sticky cart UX and friction reduction.  
-  `Shopify Liquid` `JavaScript` `CRO`
+* **`Sutro` | Full-Stack Software Consultant** (2024 - 2025)[cite: 1]  
+  Designed automated data-collection workflows and full-stack reporting dashboards to track financial modeling parameters and go-to-market performance metrics[cite: 1].  
+  `Python` `Docker` `Data Architecture`[cite: 1]
 
 </td>
 </tr>
@@ -164,15 +167,18 @@ I am a **Full-Stack AI Engineer** and **Conversion Rate Optimization (CRO) Speci
 
 <div align="center">
 
-I am available for high-impact full-stack AI architecture roles, technical advising, and conversion rate optimization consulting for scaling e-commerce brands.
+I am available for high-impact full-stack AI architecture roles and technical advising. Open to relocation across the EU[cite: 1].
 
 <br/>
 
-<a href="https://www.linkedin.com/in/argane-rachid/">
+<a href="https://www.linkedin.com/in/argane-rachid">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:rachid.argane@hyperisland.se">
+  <img src="https://img.shields.io/badge/Email-rachid.argane%40hyperisland.se-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="tel:+4571875227">
+  <img src="https://img.shields.io/badge/Phone-%2B45%2071%2087%2052%2027-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 <br/><br/>
