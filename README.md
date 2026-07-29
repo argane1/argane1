@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:1e293b&height=200&section=header&text=Rachid%20Argane&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%26%20AI%20Agent%20Developer&descAlignY=58&descSize=15" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Rachid%20Argane&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20and%20AI%20Agent%20Developer&descAlignY=58&descSize=15" width="100%" alt="Header Banner"/>
 
   <br/>
 
@@ -184,6 +184,6 @@ I am available for high-impact full-stack AI architecture roles and technical ad
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:334155,100:1e293b&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer" width="100%"/>
 
 </div>
