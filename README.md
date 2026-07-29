@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <img src="https://img.shields.io/badge/Location-Copenhagen%2C%20Denmark-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Citizenship-🇸🇪%20Sweden%20%7C%20🇲🇦%20Morocco-1e293b?style=for-the-badge" alt="Citizenship">
+  <img src="https://img.shields.io/badge/Citizenship-%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%87%B2%F0%9F%87%A6%20Morocco-1e293b?style=for-the-badge" alt="Citizenship">
 
   <br/><br/>
 
@@ -30,31 +30,54 @@
 <tr>
 <td width="65%" valign="top">
 
-I am a **Full-Stack AI Engineer and AI Agent Developer** based in Copenhagen, specializing in agentic systems, RAG pipelines, and production-grade backend architecture.
+<p>I am a <strong>Full-Stack AI Engineer and AI Agent Developer</strong> based in Copenhagen, specializing in agentic systems, RAG pipelines, and production-grade backend architecture.</p>
 
-### Core Focus Areas:
-* **AI Agent Engineering:** Designing and deploying autonomous multi-step agents and conversational workflows into production using tools like Make.com, Vapi, and Voiceflow.
-* **Full-Stack AI Development:** Building enterprise-async applications powered by Python, FastAPI, SQLAlchemy, and Supabase/PostgreSQL (pgvector).
-* **RAG & Vector Search:** Architecting pgvector-based semantic retrieval and fusion-ranked document Q&A pipelines.
+<h3>Core Focus Areas:</h3>
+<ul>
+  <li><strong>AI Agent Engineering:</strong> Designing and deploying autonomous multi-step agents and conversational workflows into production using tools like Make.com, Vapi, and Voiceflow.</li>
+  <li><strong>Full-Stack AI Development:</strong> Building enterprise-async applications powered by Python, FastAPI, SQLAlchemy, and Supabase/PostgreSQL (pgvector).</li>
+  <li><strong>RAG &amp; Vector Search:</strong> Architecting pgvector-based semantic retrieval and fusion-ranked document Q&amp;A pipelines.</li>
+</ul>
 
-🎓 **Education:** 
-* Bachelor in Computer Science, *Linnaeus University* (2019 – 2022)
-* Diploma in Business Development, *Hyper Island* (2024 – 2026)
+<p>🎓 <strong>Education:</strong></p>
+<ul>
+  <li>Bachelor in Computer Science, <em>Linnaeus University</em> (2019 – 2022)</li>
+  <li>Diploma in Business Development, <em>Hyper Island</em> (2024 – 2026)</li>
+</ul>
 
-🗣️ **Languages:** Arabic (Native), French (Native), Swedish (C2), English (C1), Italian (Intermediate)
+<p>🗣️ <strong>Languages:</strong> Arabic (Native), French (Native), Swedish (C2), English (C1), Italian (Intermediate)</p>
 
 </td>
 <td width="35%" valign="top">
 
-### 📌 Quick Specs
+<h3>📌 Quick Specs</h3>
 
-| Key | Details |
-| :--- | :--- |
-| **Location** | Copenhagen, DK |
-| **Citizenship** | 🇸🇪 Sweden · 🇲🇦 Morocco |
-| **Mobility** | Open to EU relocation |
-| **Domain** | Full-Stack AI · Agentic Systems |
-| **Expertise** | FastAPI · React 19 · pgvector |
+<table width="100%">
+  <tr>
+    <th align="left">Key</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Copenhagen, DK</td>
+  </tr>
+  <tr>
+    <td><strong>Citizenship</strong></td>
+    <td>🇸🇪 Sweden · 🇲🇦 Morocco</td>
+  </tr>
+  <tr>
+    <td><strong>Mobility</strong></td>
+    <td>Open to EU relocation</td>
+  </tr>
+  <tr>
+    <td><strong>Domain</strong></td>
+    <td>Full-Stack AI · Agentic Systems</td>
+  </tr>
+  <tr>
+    <td><strong>Expertise</strong></td>
+    <td>FastAPI · React 19 · pgvector</td>
+  </tr>
+</table>
 
 </td>
 </tr>
@@ -68,23 +91,23 @@ I am a **Full-Stack AI Engineer and AI Agent Developer** based in Copenhagen, sp
 <tr>
 <td align="center" width="25%" valign="top">
 
-### Frontend & Styling
+<h4>Frontend &amp; Styling</h4>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,css&theme=dark" /><br/><br/>
 <sub>React 19 · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-### Backend & Data
+<h4>Backend &amp; Data</h4>
 <br/>
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,supabase,docker&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,supabase,docker&theme=dark" /><br/><br/>
 <sub>Python · FastAPI · PostgreSQL / pgvector · Supabase · SQLAlchemy · Docker</sub>
 
 </td>
 <td align="center" width="25%" valign="top">
 
-### AI & Agentic Systems
+<h4>AI &amp; Agentic Systems</h4>
 <br/>
 <img src="https://skillicons.dev/icons?i=py&theme=dark" /><br/>
 <p align="center">
@@ -98,7 +121,7 @@ I am a **Full-Stack AI Engineer and AI Agent Developer** based in Copenhagen, sp
 </td>
 <td align="center" width="25%" valign="top">
 
-### Business & Tools
+<h4>Business &amp; Tools</h4>
 <br/>
 <img src="https://skillicons.dev/icons?i=github,vscode,figma,notion&theme=dark" /><br/>
 <p align="center">
@@ -120,28 +143,40 @@ I am a **Full-Stack AI Engineer and AI Agent Developer** based in Copenhagen, sp
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Engineering & Architecture
+<h3>🧠 AI Engineering &amp; Architecture</h3>
 
-* **[`Document Copilot`](https://github.com/argane1)** (2026 - Present)  
-  Production RAG application for financial-filing analysis (10-K/10-Q/8-K) featuring a multi-strategy retriever (embedding search, keyword extraction, and fusion ranking).  
-  `Python` `FastAPI` `pgvector` `SSE Streaming` `React 19`
-
-* **`sorina.cloud` | Founder & CEO** (2024 - 2026)  
-  Engineered and deployed end-to-end full-stack AI automation products. Architected autonomous multi-step AI agents handling 24/7 booking, lead qualification, and client support.  
-  `TypeScript` `Supabase` `Make.com` `Vapi`
+<ul>
+  <li>
+    <strong><a href="https://github.com/argane1">Document Copilot</a></strong> (2026 - Present)<br/>
+    Production RAG application for financial-filing analysis (10-K/10-Q/8-K) featuring a multi-strategy retriever (embedding search, keyword extraction, and fusion ranking).<br/>
+    <code>Python</code> <code>FastAPI</code> <code>pgvector</code> <code>SSE Streaming</code> <code>React 19</code>
+  </li>
+  <br/>
+  <li>
+    <strong>sorina.cloud | Founder &amp; CEO</strong> (2024 - 2026)<br/>
+    Engineered and deployed end-to-end full-stack AI automation products. Architected autonomous multi-step AI agents handling 24/7 booking, lead qualification, and client support.<br/>
+    <code>TypeScript</code> <code>Supabase</code> <code>Make.com</code> <code>Vapi</code>
+  </li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Full-Stack E-Commerce & Systems
+<h3>🏢 Full-Stack E-Commerce &amp; Systems</h3>
 
-* **`Veyt` | Full-Stack AI & E-Commerce Engineer** (2025 - 2026)  
-  Engineered custom high-performance storefront components utilizing advanced DOM manipulation and integrated automated backend webhook pipelines for conversion dynamic optimization.  
-  `Shopify Liquid` `JavaScript` `GA4`
-
-* **`Sutro` | Full-Stack Software Consultant** (2024 - 2025)  
-  Designed automated data-collection workflows and full-stack reporting dashboards to track financial modeling parameters and go-to-market performance metrics.  
-  `Python` `Docker` `Data Architecture`
+<ul>
+  <li>
+    <strong>Veyt | Full-Stack AI &amp; E-Commerce Engineer</strong> (2025 - 2026)<br/>
+    Engineered custom high-performance storefront components utilizing advanced DOM manipulation and integrated automated backend webhook pipelines for conversion dynamic optimization.<br/>
+    <code>Shopify Liquid</code> <code>JavaScript</code> <code>GA4</code>
+  </li>
+  <br/>
+  <li>
+    <strong>Sutro | Full-Stack Software Consultant</strong> (2024 - 2025)<br/>
+    Designed automated data-collection workflows and full-stack reporting dashboards to track financial modeling parameters and go-to-market performance metrics.<br/>
+    <code>Python</code> <code>Docker</code> <code>Data Architecture</code>
+  </li>
+</ul>
 
 </td>
 </tr>
@@ -173,17 +208,17 @@ I am available for high-impact full-stack AI architecture roles and technical ad
 <br/>
 
 <a href="https://www.linkedin.com/in/argane-rachid">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:rachid.argane@hyperisland.se">
-  <img src="https://img.shields.io/badge/Email-rachid.argane%40hyperisland.se-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-rachid.argane%40hyperisland.se-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="tel:+4571875227">
-  <img src="https://img.shields.io/badge/Phone-%2B45%2071%2087%2052%2027-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/Phone-%2B45%2071%2087%2052%2027-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
