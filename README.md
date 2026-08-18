@@ -1,56 +1,45 @@
-
-````html
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Rachid%20Argane&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20RAG%20%7C%20AI%20Agents&descAlignY=58&descSize=15" width="100%" alt="Rachid Argane Header"/>
+# Rachid Argane
 
-  <br/>
+### AI Engineer · Machine Learning · RAG · AI Agents · Full-Stack AI
 
-  <a href="https://www.linkedin.com/in/argane-rachid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<br/>
 
-  <a href="https://github.com/argane1">
-    <img src="https://img.shields.io/badge/GitHub-argane1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="https://www.linkedin.com/in/argane-rachid">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <img src="https://img.shields.io/badge/AI%20Engineer-Copenhagen-1e293b?style=for-the-badge" alt="AI Engineer">
+<a href="https://github.com/argane1">
+  <img src="https://img.shields.io/badge/GitHub-argane1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-  <br/><br/>
+<img src="https://img.shields.io/badge/AI%20Engineer-Copenhagen-1e293b?style=for-the-badge" alt="AI Engineer"/>
 
-  <!-- Dynamic Tagline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=818CF8&center=true&vCenter=true&width=780&height=40&lines=Building+production-grade+AI+applications;Python+%7C+PyTorch+%7C+Hugging+Face;RAG+%7C+LangChain+%7C+Azure+AI+Search;FastAPI+%7C+React+%7C+TypeScript;Docker+%7C+GitHub+Actions+%7C+CI%2FCD" alt="AI Engineering Stack"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Search"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge" alt="CI/CD"/>
 
 </div>
 
 <br/>
-
-# 👋 About Me
-
-I am **Rachid Argane**, an **AI Engineer and Full-Stack AI Developer** based in Copenhagen, Denmark.
-
-I focus on building **production-oriented AI systems**, combining machine learning, large language models, retrieval-augmented generation, AI agents, backend engineering, frontend development, and deployment automation.
-
-My engineering approach is to understand the complete system:
-
-```text
-Model
-  ↓
-Retrieval
-  ↓
-Backend
-  ↓
-Application
-  ↓
-Infrastructure
-  ↓
-Deployment
-````
-
-Rather than focusing only on the model, I build systems where the **AI actually becomes part of a usable product**.
-
----
 
 # 🧠 My Core AI Engineering Stack
 
