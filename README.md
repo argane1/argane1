@@ -585,6 +585,4 @@ Interested in <strong>AI Engineering, Machine Learning, RAG, AI Agents and Full-
 </div>
 ```
 
-This is the version I would use as your **actual GitHub profile README**. It positions you around one coherent identity:
 
-**AI Engineer who can build the entire system — PyTorch/ML → RAG/LLMs → agents → FastAPI → React → Docker → CI/CD.**
